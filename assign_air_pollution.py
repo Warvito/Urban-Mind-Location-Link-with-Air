@@ -18,8 +18,8 @@ from astropy.units import Quantity
 from astropy.coordinates import SkyCoord, EarthLocation
 from astropy.constants import R_earth
 from astropy import units as u
-import pandas as pd
 import numpy as np
+import pandas as pd
 import pyproj
 
 PROJECT_ROOT = Path.cwd()
