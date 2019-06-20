@@ -1,4 +1,5 @@
 numpy
 pandas
-pyproj=2.2.0
+pyproj
 geopy
+scipy
