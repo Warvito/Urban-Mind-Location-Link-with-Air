@@ -71,7 +71,7 @@ def main():
             urban_mind_df.iloc[urban_mind_index,
                                urban_mind_df.columns.get_loc('pm252017g')] = nearest_point['pm252017g']
 
-    urban_mind_df.to_csv(output_dir / 'urban_mind_w_air_polution.csv')
+    urban_mind_df.to_csv(output_dir / 'urban_mind_w_air_pollution.csv')
 
 
 if __name__ == "__main__":
