@@ -1,5 +1,9 @@
+# IDE Files
 .idea/
 
+# Virtual Enviroment
 venv/
-data/
+
+# Data files
+data/*
 !data/.gitkeep
